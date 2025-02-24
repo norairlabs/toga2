@@ -1,3 +1,0 @@
-INNER MARKER,Inner marker state.
-MIDDLE MARKER,Middle marker state.
-OUTER MARKER,Outer marker state.
