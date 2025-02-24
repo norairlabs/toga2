@@ -74,7 +74,7 @@ jobs:
         dotnet-version: 8.0.x
 
     - name: Create the package
-      run: dotnet pack --configuration Release TOGA.sln
+      run: dotnet build --configuration Release TOGA.sln
 
     - name : meh
       run: ls
