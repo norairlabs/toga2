@@ -1,0 +1,22 @@
+{
+  "SERIAL": "3100000001",
+  "ID": 31,
+  "DESCRIPTION": "My hardware description \u003Cchange me\u003E",
+  "BACKLITCOLOR": "",
+  "ADFGHOSTBUTTON": "",
+  "ADFBUTTONDATAREF": "",
+  "XPDRGHOSTBUTTON": "",
+  "XPDRBUTTONDATAREF": "",
+  "COMMACTTOREAD": "",
+  "COMMACTTOWRITE": "sim/cockpit2/radios/actuators/com1_frequency_hz",
+  "COMMSTBTOREAD": "",
+  "COMMSTBTOWRITE": "sim/cockpit2/radios/actuators/com1_standby_frequency_hz",
+  "NAVACTTOREAD": "",
+  "NAVACTTOWRITE": "sim/cockpit2/radios/actuators/nav1_frequency_hz",
+  "NAVSTBTOREAD": "",
+  "NAVSTBTOWRITE": "sim/cockpit2/radios/actuators/nav1_standby_frequency_hz",
+  "ADFTOREAD": "",
+  "ADFTOWRITE": "sim/cockpit2/radios/actuators/adf1_frequency_hz",
+  "XPDRTOREAD": "",
+  "XPDRTOWRITE": "sim/cockpit2/radios/actuators/transponder_code"
+}

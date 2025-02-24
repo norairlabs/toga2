@@ -1,0 +1,11 @@
+FUEL DUMP ACTIVE,If 1 (TRUE) then the aircraft can dump fuel.
+FUEL TRANSFER PUMP ON:1,Returns 1 (TRUE) if the pump #1 is active.
+FUEL TRANSFER PUMP ON:2,Returns 1 (TRUE) if the pump #2 is active.
+FUELSYSTEM PUMP ACTIVE:1,Whether or not the #1 pump is actually active.
+FUELSYSTEM PUMP ACTIVE:2,Whether or not the #2 pump is actually active.
+FUELSYSTEM PUMP SWITCH:1,Whether or not the #1 pump is enabled.
+FUELSYSTEM PUMP SWITCH:2,Whether or not the #2 pump is enabled.
+FUELSYSTEM VALVE SWITCH:1,Whether or not the #1 valve is set to be opened.
+FUELSYSTEM VALVE SWITCH:2,Whether or not the #2 valve is set to be opened.
+FUELSYSTEM VALVE SWITCH:3,Whether or not the #3 valve is set to be opened.
+FUELSYSTEM VALVE SWITCH:4,Whether or not the #4 valve is set to be opened.

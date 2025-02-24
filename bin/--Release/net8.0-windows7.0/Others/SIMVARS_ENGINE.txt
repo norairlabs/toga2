@@ -1,0 +1,50 @@
+BLEED AIR ENGINE:1,Returns whether or not engine #1 attempts to provide bleed air.
+BLEED AIR ENGINE:2,Returns whether or not engine #2 attempts to provide bleed air.
+BLEED AIR ENGINE:3,Returns whether or not engine #3 attempts to provide bleed air.
+BLEED AIR ENGINE:4,Returns whether or not engine #4 attempts to provide bleed air.
+ENG ANTI ICE:1,Anti-ice switch for engine #1 , true if enabled false otherwise.
+ENG ANTI ICE:2,Anti-ice switch for engine #2 , true if enabled false otherwise.
+ENG ANTI ICE:3,Anti-ice switch for engine #3 , true if enabled false otherwise.
+ENG ANTI ICE:4,Anti-ice switch for engine #4 , true if enabled false otherwise.
+ENG COMBUSTION:1,True if the engine #1 is running, false otherwise.
+ENG COMBUSTION:2,True if the engine #2 is running, false otherwise.
+ENG COMBUSTION:3,True if the engine #3 is running, false otherwise.
+ENG COMBUSTION:4,True if the engine #4 is running, false otherwise.
+ENG FAILED:1,Failure flag for the engine #1 that has failed.
+ENG FAILED:2,Failure flag for the engine #2 that has failed.
+ENG FAILED:3,Failure flag for the engine #3 that has failed.
+ENG FAILED:4,Failure flag for the engine #4 that has failed.
+ENG ON FIRE:1,The engine #1 on fire state.
+ENG ON FIRE:2,The engine #2 on fire state.
+ENG ON FIRE:3,The engine #3 on fire state.
+ENG ON FIRE:4,The engine #4 on fire state.
+GENERAL ENG FUEL PUMP ON:1, Whether the engine #1 fuel pump is on or not
+GENERAL ENG FUEL PUMP ON:2, Whether the engine #2 fuel pump is on or not
+GENERAL ENG FUEL PUMP ON:3, Whether the engine #3 fuel pump is on or not
+GENERAL ENG FUEL PUMP ON:4, Whether the engine #4 fuel pump is on or not
+GENERAL ENG FUEL PUMP SWITCH:1, Engine #1 fuel pump switch state
+GENERAL ENG FUEL PUMP SWITCH:2, Engine #2 fuel pump switch state
+GENERAL ENG FUEL PUMP SWITCH:3, Engine #3 fuel pump switch state
+GENERAL ENG FUEL PUMP SWITCH:4, Engine #4 fuel pump switch state
+GENERAL ENG GENERATOR SWITCH:1, Engine #1 alternator switch state
+GENERAL ENG GENERATOR SWITCH:2, Engine #2 alternator switch state
+GENERAL ENG GENERATOR SWITCH:3, Engine #3 alternator switch state
+GENERAL ENG GENERATOR SWITCH:4, Engine #4 alternator switch state
+GENERAL ENG REVERSE THRUST ENGAGED:return 1 (TRUE) if the reverse thruster is engaged, or 0 (FALSE) otherwise.
+GENERAL ENG STARTER:1, #1 engine starter on/off state.
+GENERAL ENG STARTER:2, #2 engine starter on/off state.
+GENERAL ENG STARTER:3, #3 engine starter on/off state.
+GENERAL ENG STARTER:4, #4 engine starter on/off state.
+MASTER IGNITION SWITCH,Aircraft master ignition switch (grounds all engines magnetos).
+PROP SYNC ACTIVE:1,True if prop sync is active for engine #1
+PROP SYNC ACTIVE:2,True if prop sync is active for engine #2
+PROP SYNC ACTIVE:3,True if prop sync is active for engine #3
+PROP SYNC ACTIVE:4,True if prop sync is active for engine #4
+SHUTOFF VALVE PULLED,This checks if the shutoff valve to the engine has been pulled (true) or not (false). When pulled piston engines will be blocked from getting any fuel.
+TURB ENG MASTER STARTER SWITCH,True if the turbine engine master starter switch is on, false otherwise.
+RECIP ENG ENGINE MASTER SWITCH:1,Whether or not the Engine Master switch is active on #1 engine
+RECIP ENG ENGINE MASTER SWITCH:2,Whether or not the Engine Master switch is active on #2 engine
+RECIP ENG LEFT MAGNETO:1,Left magneto state for the #1 engine
+RECIP ENG LEFT MAGNETO:2,Left magneto state for the #2 engine
+RECIP ENG RIGHT MAGNETO:1,Right magneto state for the #1 engine
+RECIP ENG RIGHT MAGNETO:2,Right magneto state for the #2 engine

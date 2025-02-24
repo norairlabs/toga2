@@ -1,0 +1,11 @@
+AUTO_THROTTLE_ARM,Toggles autothrottle arming mode
+AUTO_THROTTLE_TO_GA,Toggles Takeoff/Go Around mode
+GPWS_SWITCH_TOGGLE,Turn the ground proximity warning system (GPWS) on or off.
+TOGGLE_FLIGHT_DIRECTOR,Toggles flight director on/off
+YAW_DAMPER_TOGGLE,Toggles yaw damper on/off
+YAW_DAMPER_ON,Turns yaw damper on
+YAW_DAMPER_OFF,Turns yaw damper off
+
+
+
+

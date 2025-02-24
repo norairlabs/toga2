@@ -1,0 +1,44 @@
+AUTOTHROTTLE ACTIVE,Auto-throttle active.
+AUTO COORDINATION,Is auto-coordination active.
+AVIONICS MASTER SWITCH:1,Avionics master switch position for avionics circuit #1, true if the switch is ON
+AVIONICS MASTER SWITCH:2,Avionics master switch position for avionics circuit #2, true if the switch is ON
+CABIN NO SMOKING ALERT SWITCH,True if the No Smoking switch is on.
+CABIN SEATBELTS ALERT SWITCH,True if the Seatbelts switch is on.
+GPWS SYSTEM ACTIVE,True if the Ground Proximity Warning System is active.
+IS ALTITUDE FREEZE ON,True if the altitude of the aircraft is frozen.
+IS ATTITUDE FREEZE ON,True if the attitude (pitch, bank and heading) of the aircraft is frozen.
+OVERSPEED WARNING,Overspeed warning state.
+PANEL ANTI ICE SWITCH,True if panel anti-ice switch is on.
+PITOT HEAT,Pitot heat active.
+RAD INS SWITCH,True if Rad INS switch on.
+STALL WARNING,Stall warning state.
+STRUCTURAL DEICE SWITCH,True if the aircraft structure deice switch is on.
+TRUE AIRSPEED SELECTED,True if True Airspeed has been selected.
+TURN INDICATOR SWITCH,True if turn indicator switch is on.
+WINDSHIELD DEICE SWITCH,True if the aircraft windshield deice switch is on.
+VARIOMETER SWITCH,True if the variometer switch is on, false if it is not.
+WATER BALLAST EVERY VALVE OPEN,This variable will return 1 (TRUE) if all the ballast tank valves are open, or 0 (FALSE) otherwise.
+IS ANY INTERIOR LIGHT ON,Will return true if any interior light is on or false otherwise.
+LIGHT BEACON ON,Beacon light
+LIGHT BRAKE ON,Brake light
+LIGHT CABIN ON,Cabin light 
+LIGHT GLARESHIELD ON,Glareshield light
+LIGHT HEAD ON,Navigation light
+LIGHT LANDING ON,Landing light.
+LIGHT LOGO ON,Logo light.
+LIGHT NAV ON,NAV light.
+LIGHT PANEL ON,Panel light.
+LIGHT PEDESTRAL ON,Pedestal light.
+LIGHT RECOGNITION ON,Recognition light.
+LIGHT STROBE ON,Strobe light
+LIGHT TAXI ON,Taxi light
+LIGHT WING ON, Wing light
+HYDRAULIC SWITCH,True if hydraulic switch is on.
+WARNING FUEL,This is the current state of the fuel warning, either on (true) or off (false).
+WARNING FUEL LEFT,This is the current state of the left fuel tank warning, either on (true) or off (false).
+WARNING FUEL RIGHT,This is the current state of the right fuel tank warning, either on (true) or off (false).
+WARNING LOW HEIGHT,This is the current state of the low height warning, either on (true) or off (false).
+WARNING VACUUM,This is the current state of the vacuum system warning, either on (true) or off (false).
+WARNING VACUUM LEFT,This is the current state of the left vacuum system warning, either on (true) or off (false).
+WARNING VACUUM RIGHT,This is the current state of the right vacuum system warning, either on (true) or off (false).
+WARNING VOLTAGE,This is the current state of the electrical system voltage warning, either on (true) or off (false).
